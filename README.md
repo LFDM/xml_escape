@@ -1,6 +1,6 @@
 # XmlEscape
 
-TODO: Write a gem description
+Encodes and decodes XML escape characters (&, ", ', <, >)
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Include the module `XmlEscape` to get the methods `xml_encode` (plus its
+alias `escape_xml`) and `xml_decode` (plus its alias `unescape_xml`)
+
 
 ## Contributing
 
