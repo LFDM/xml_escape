@@ -19,7 +19,8 @@ Or install it yourself as:
 ## Usage
 
 Include the module `XmlEscape` to get the methods `xml_encode` (plus its
-alias `escape_xml`) and `xml_decode` (plus its alias `unescape_xml`)
+alias `escape_xml`) and `xml_decode` (plus its alias `unescape_xml`).
+All methods take a string you want to be transformed as their single argument.
 
 
 ## Contributing
